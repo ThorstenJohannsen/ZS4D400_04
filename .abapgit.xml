@@ -6,6 +6,8 @@
    <STARTING_FOLDER>/src/</STARTING_FOLDER>
    <FOLDER_LOGIC>FULL</FOLDER_LOGIC>
    <IGNORE>
+    <!-- Spezifisches Objekt ignorieren -->
+    <item>/ZERTERT*</item>
     <item>/.gitignore</item>
     <item>/LICENSE</item>
     <item>/README.md</item>
